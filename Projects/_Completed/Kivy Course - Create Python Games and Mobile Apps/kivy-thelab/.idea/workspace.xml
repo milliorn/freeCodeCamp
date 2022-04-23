@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01ba5ec2-4545-4eb8-aaac-630dc11517cf" name="Default Changelist" comment="1:18:06 Custom font" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1vjxyxdcVQbbox2Y3gy4IPi5J62" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="kivy-thelab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01ba5ec2-4545-4eb8-aaac-630dc11517cf" name="Default Changelist" comment="" />
+      <created>1627089557257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627089557257</updated>
+    </task>
+    <task id="LOCAL-00001" summary="kivy">
+      <created>1627089813066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627089813066</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TheLabApp">
+      <created>1627090050971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627090050971</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MainWidget">
+      <created>1627090151934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627090151934</updated>
+    </task>
+    <task id="LOCAL-00004" summary="readme">
+      <created>1627090794918</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627090794918</updated>
+    </task>
+    <task id="LOCAL-00005" summary="0:16:55 Button and Label">
+      <created>1627265697634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627265697634</updated>
+    </task>
+    <task id="LOCAL-00006" summary="url">
+      <created>1627265737066</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627265737066</updated>
+    </task>
+    <task id="LOCAL-00007" summary="BoxLayout">
+      <created>1627330106762</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627330106762</updated>
+    </task>
+    <task id="LOCAL-00008" summary="readme">
+      <created>1627330191202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627330191202</updated>
+    </task>
+    <task id="LOCAL-00009" summary="0:30:49 Size_hint and Pos_hint">
+      <created>1627347785347</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627347785347</updated>
+    </task>
+    <task id="LOCAL-00010" summary="url">
+      <created>1627347814661</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1627347814661</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ignore">
+      <created>1627441297393</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1627441297393</updated>
+    </task>
+    <task id="LOCAL-00012" summary="0:39:23 Embed a layout">
+      <created>1627441468949</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1627441468949</updated>
+    </task>
+    <task id="LOCAL-00013" summary="AnchorLayout">
+      <created>1627518045017</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1627518045017</updated>
+    </task>
+    <task id="LOCAL-00014" summary="GridLayout">
+      <created>1627614964093</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1627614964093</updated>
+    </task>
+    <task id="LOCAL-00015" summary="StackLayout">
+      <created>1627696555048</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1627696555049</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ScrollView">
+      <created>1627785891335</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1627785891335</updated>
+    </task>
+    <task id="LOCAL-00017" summary="url">
+      <created>1627785948816</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1627785948816</updated>
+    </task>
+    <task id="LOCAL-00018" summary="1:02:28 PageLayout">
+      <created>1627849793047</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1627849793047</updated>
+    </task>
+    <task id="LOCAL-00019" summary="The Lab project | 2 - Widgets">
+      <created>1627850106152</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1627850106152</updated>
+    </task>
+    <task id="LOCAL-00020" summary="1:15:42 Exercise : Create a counter">
+      <created>1628034004088</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1628034004088</updated>
+    </task>
+    <task id="LOCAL-00021" summary="clear">
+      <created>1628106532716</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1628106532716</updated>
+    </task>
+    <task id="LOCAL-00022" summary="1:18:06 Custom font">
+      <created>1628107309868</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1628107309868</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="kivy" />
+    <MESSAGE value="TheLabApp" />
+    <MESSAGE value="MainWidget" />
+    <MESSAGE value="0:16:55 Button and Label" />
+    <MESSAGE value="BoxLayout" />
+    <MESSAGE value="readme" />
+    <MESSAGE value="0:30:49 Size_hint and Pos_hint" />
+    <MESSAGE value="ignore" />
+    <MESSAGE value="0:39:23 Embed a layout" />
+    <MESSAGE value="AnchorLayout" />
+    <MESSAGE value="GridLayout" />
+    <MESSAGE value="StackLayout" />
+    <MESSAGE value="ScrollView" />
+    <MESSAGE value="url" />
+    <MESSAGE value="1:02:28 PageLayout" />
+    <MESSAGE value="The Lab project | 2 - Widgets" />
+    <MESSAGE value="1:15:42 Exercise : Create a counter" />
+    <MESSAGE value="clear" />
+    <MESSAGE value="1:18:06 Custom font" />
+    <option name="LAST_COMMIT_MESSAGE" value="1:18:06 Custom font" />
+  </component>
+</project>
