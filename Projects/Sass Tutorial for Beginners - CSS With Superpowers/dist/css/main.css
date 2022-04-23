@@ -10,12 +10,21 @@ body {
 }
 
 .main {
-  width: 80%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   margin: 0 auto;
+  width: 80%;
 }
 .main .main__paragraph {
   font-weight: 400;
 }
 .main .main__paragraph:hover {
   color: pink;
+}
+@media (max-width: 800px) {
+  .main {
+    flex-direction: column;
+  }
 }/*# sourceMappingURL=main.css.map */
