@@ -1,9 +1,8 @@
 # Sass Tutorial for Beginners - CSS With Superpowers
 
+<https://www.youtube.com/watch?v=_a5j7KoflTs>
+
 ⭐️ Course Contents ⭐️
-⌨️ (0:04:02) Folder Structure / Sass Syntax
-⌨️ (0:08:06) Variables
-⌨️ (0:10:03) Maps
 ⌨️ (0:03:00) Nesting
 ⌨️ (0:16:54) Partials
 ⌨️ (0:19:40) Functions
