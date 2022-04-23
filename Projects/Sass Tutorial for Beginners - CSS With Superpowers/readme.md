@@ -3,9 +3,7 @@
 <https://www.youtube.com/watch?v=_a5j7KoflTs>
 
 ⭐️ Course Contents ⭐️
-⌨️ (0:21:30) Mixin Example 1
-⌨️ (0:24:26) Mixin Example 2
-⌨️ (0:28:00) Mixin Example 3
+
 ⌨️ (0:30:20) Extend
 ⌨️ (0:32:05) Math Operations
 ⌨️ (0:33:49) How to Learn More (Documentation)

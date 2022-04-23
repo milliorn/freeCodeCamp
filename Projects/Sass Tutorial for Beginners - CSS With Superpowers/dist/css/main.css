@@ -12,16 +12,19 @@ body {
 .main {
   align-items: center;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   margin: 0 auto;
-  width: 80%;
+  width: 40%;
 }
-.main .main__paragraph {
-  font-weight: 400;
+.main .main__paragraph1, .main .main__paragraph2 {
+  font-weight: 700;
 }
-.main .main__paragraph:hover {
+.main .main__paragraph1:hover, .main .main__paragraph2:hover {
   color: pink;
+}
+.main:hover {
+  color: #ff652f;
 }
 @media (max-width: 800px) {
   .main {
