@@ -3,7 +3,6 @@
 <https://www.youtube.com/watch?v=_a5j7KoflTs>
 
 ⭐️ Course Contents ⭐️
-⌨️ (0:16:54) Partials
 ⌨️ (0:19:40) Functions
 ⌨️ (0:21:30) Mixin Example 1
 ⌨️ (0:24:26) Mixin Example 2

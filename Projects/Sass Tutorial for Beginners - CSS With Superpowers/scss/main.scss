@@ -1,5 +1,9 @@
-@import './resets';
-@import './variables';
+@import "./resets";
+@import "./variables";
+
+@function weight($weight-name) {
+  @return map-get($font-weights, $weight-name);
+}
 
 body {
   background-color: $primary-color;
@@ -11,7 +15,7 @@ body {
   margin: 0 auto;
 
   #{&}__paragraph {
-    font-weight: map-get($font-weights, bold);
+    font-weight: weight(regular);
 
     &:hover {
       color: pink;
