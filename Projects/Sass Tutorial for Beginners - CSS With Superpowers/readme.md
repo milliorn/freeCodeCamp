@@ -1,12 +1,8 @@
 # Sass Tutorial for Beginners - CSS With Superpowers
 
-<https://www.youtube.com/watch?v=_a5j7KoflTs>
+<https://youtu.be/_a5j7KoflTs?t=2045>
 
 ⭐️ Course Contents ⭐️
-
-⌨️ (0:30:20) Extend
-⌨️ (0:32:05) Math Operations
-⌨️ (0:33:49) How to Learn More (Documentation)
 
 ⌨️ (0:34:02) Real-World Example From Scratch (Portfolio Site)
 ⌨️ (0:34:38) index.html
