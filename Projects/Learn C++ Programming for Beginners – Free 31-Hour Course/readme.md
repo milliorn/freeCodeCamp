@@ -7,12 +7,7 @@
 💻 Source code: <https://github.com/rutura/The-C-20-Ma>...
 
 ⭐️ Course Contents ⭐
-<https://youtu.be/8jLOx1hD3_o?t=9110>
-
-(1:43:01) Chapter 2: Diving in
-Data input and output
-C++ Program Execution Model
-C++ core language Vs Standard library Vs STL
+<https://www.youtube.com/watch?v=8jLOx1hD3_o&t=10847s>
 
 (3:00:47) Chapter 3: Variables and data types
 Variables and data types Introduction
