@@ -7,11 +7,9 @@
 💻 Source code: <https://github.com/rutura/The-C-20-Ma>...
 
 ⭐️ Course Contents ⭐
-<https://youtu.be/8jLOx1hD3_o?t=6182>
+<https://youtu.be/8jLOx1hD3_o?t=9110>
 
 (1:43:01) Chapter 2: Diving in
-Errors and Warnings
-Statements and Functions
 Data input and output
 C++ Program Execution Model
 C++ core language Vs Standard library Vs STL
