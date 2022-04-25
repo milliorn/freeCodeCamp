@@ -10,8 +10,6 @@
 <https://youtu.be/8jLOx1hD3_o?t=6182>
 
 (1:43:01) Chapter 2: Diving in
-Your First C++ Program
-Comments
 Errors and Warnings
 Statements and Functions
 Data input and output
