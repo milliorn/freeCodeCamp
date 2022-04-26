@@ -7,19 +7,8 @@
 💻 Source code: <https://github.com/rutura/The-C-20-Ma>...
 
 ⭐️ Course Contents ⭐
-<https://www.youtube.com/watch?v=8jLOx1hD3_o&t=10847s>
 
-(3:00:47) Chapter 3: Variables and data types
-Variables and data types Introduction
-Number Systems
-Integer types : Decimals and Integers
-Integer Modifiers
-Fractional Numbers
-Booleans
-Characters And Text
-Auto
-Assignments
-Variables and data types summary
+<https://youtu.be/8jLOx1hD3_o?t=17206>
 
 (4:46:46) Chapter 4: Operations on Data
 Introduction on Data operations
