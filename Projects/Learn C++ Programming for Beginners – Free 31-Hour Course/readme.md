@@ -8,47 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=17206>
+<https://youtu.be/8jLOx1hD3_o?t=37652>
 
-(4:46:46) Chapter 4: Operations on Data
-Introduction on Data operations
-Basic Operations
-Precedence and Associativity
-Prefix/Postfix Increment & Decrement
-Compound Assignment Operators
-Relational Operators
-Logical Operators
-Output formatting
-Numeric Limits
-Math Functions
-Weird Integral Types
-Data Operations Summary
-
-(7:01:58) Chapter 5: Flow Control
-Flow Control Introduction
-If Statements
-Else If
-Switch
-Ternary Operators
-Flow Control Summary
-
-(7:53:49) Chapter 6: Loops
-Loops Introduction
-For Loop
-While Loop
-Do While Loop
-
-(8:47:08) Chapter 7: Arrays
-Introduction to Arrays
-Declaring and using arrays
-Size of an array
-Arrays of characters
-Array Bounds
-
-(9:53:23) Chapter 8: Pointers
-Introduction to Pointers
-Declaring and using pointers
-Pointer to char
 Program Memory Map Revisited
 Dynamic Memory Allocation
 Dangling Pointers
