@@ -8,9 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=39947>
+<https://youtu.be/8jLOx1hD3_o?t=41056>
 
-Dangling Pointers
 When new Fails
 Null Pointer Safety
 Memory Leaks
