@@ -8,7 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=41881>
+<https://youtu.be/8jLOx1hD3_o?t=42319>
 
 Memory Leaks
 Dynamically allocated arrays
