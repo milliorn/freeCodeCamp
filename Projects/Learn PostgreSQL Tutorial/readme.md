@@ -2,14 +2,10 @@
 
 <https://www.youtube.com/watch?v=qw--VYLpxG4>
 
-<https://youtu.be/qw--VYLpxG4?t=945>
+<https://youtu.be/qw--VYLpxG4?t=1058>
 
 ⭐️ Contents ⭐️
- ⌨️ (0:03:16) What is a Database
- ⌨️ (0:05:17) What is SQL And Relational Database
- ⌨️ (0:09:10) What is PostreSQL AKA Postrgres
- ⌨️ (0:10:53) PostgreSQL Installation (Mac OS)
- ⌨️ (0:14:21) PostgreSQL Installation (Windows)
+
  ⌨️ (0:17:38) GUI Clients vs Terminal/CMD Clients
  ⌨️ (0:21:39) Setup PSQL (MAC OS)
  ⌨️ (0:25:22) Setup PSQL (Windows)
