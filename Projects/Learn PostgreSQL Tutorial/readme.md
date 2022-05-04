@@ -6,9 +6,6 @@
 
 ⭐️ Contents ⭐️
 
- ⌨️ (0:17:38) GUI Clients vs Terminal/CMD Clients
- ⌨️ (0:21:39) Setup PSQL (MAC OS)
- ⌨️ (0:25:22) Setup PSQL (Windows)
  ⌨️ (0:30:15) How to Create Database
  ⌨️ (0:33:35) How to Connect to Databases
  ⌨️ (0:38:12) A Very Dangerous Command
