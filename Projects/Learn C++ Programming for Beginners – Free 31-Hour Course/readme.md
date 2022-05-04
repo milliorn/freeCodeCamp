@@ -8,7 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=41056>
+<https://youtu.be/8jLOx1hD3_o?t=41881>
 
 When new Fails
 Null Pointer Safety
