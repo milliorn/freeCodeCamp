@@ -8,9 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=42319>
+<https://youtu.be/8jLOx1hD3_o?t=42945>
 
-Memory Leaks
 Dynamically allocated arrays
 
 (12:11:04) Chapter 9: References
