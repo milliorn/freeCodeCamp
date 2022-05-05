@@ -2,11 +2,10 @@
 
 <https://www.youtube.com/watch?v=qw--VYLpxG4>
 
-<https://youtu.be/qw--VYLpxG4?t=1058>
+<https://youtu.be/qw--VYLpxG4?t=2016>
 
 ⭐️ Contents ⭐️
 
- ⌨️ (0:30:15) How to Create Database
  ⌨️ (0:33:35) How to Connect to Databases
  ⌨️ (0:38:12) A Very Dangerous Command
  ⌨️ (0:41:37) How To Create Tables
