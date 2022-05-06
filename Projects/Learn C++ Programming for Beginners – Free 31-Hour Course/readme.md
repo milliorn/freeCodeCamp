@@ -10,8 +10,6 @@
 
 <https://youtu.be/8jLOx1hD3_o?t=42945>
 
-Dynamically allocated arrays
-
 (12:11:04) Chapter 9: References
 Introduction to References
 Declaring and using references
