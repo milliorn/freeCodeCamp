@@ -8,11 +8,9 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=43865>
+<https://youtu.be/8jLOx1hD3_o?t=44551>
 
-(12:11:04) Chapter 9: References
-Introduction to References
-Declaring and using references
+Declaring and using
 Comparing pointers and references
 References and const
 
