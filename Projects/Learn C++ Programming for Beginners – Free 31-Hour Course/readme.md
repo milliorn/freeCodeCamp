@@ -8,11 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=44551>
-
-Declaring and using
-Comparing pointers and references
-References and const
+<https://youtu.be/8jLOx1hD3_o?t=45872>
 
 (12:44:29) Chapter 10: Character Manipulation and Strings
 Introduction to Strings
