@@ -8,12 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=45872>
+<https://youtu.be/8jLOx1hD3_o?t=49303>
 
-(12:44:29) Chapter 10: Character Manipulation and Strings
-Introduction to Strings
-Character Manipulation
-C-string manipulation
 C-String concatenation and copy
 Introducing std::string
 Declaring and using std::string
