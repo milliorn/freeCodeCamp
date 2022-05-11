@@ -8,11 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=49303>
-
-C-String concatenation and copy
-Introducing std::string
-Declaring and using std::string
+<https://youtu.be/8jLOx1hD3_o?t=51167>
 
 (14:12:47) Chapter 11: Functions
 The One Definition Rule
