@@ -8,7 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=54936>
+<https://youtu.be/8jLOx1hD3_o?t=56552>
 
 Multiple Files - Compilation Model Revisited
 Pass by value

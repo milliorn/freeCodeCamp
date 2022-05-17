@@ -1,6 +1,5 @@
 #include <iostream>
-
-int max(int a, int b);
+#include "compare.h"
 
 int main()
 {
@@ -10,9 +9,4 @@ int main()
 
   std::cout << "max : " << result << std::endl;
   return 0;
-}
-
-int max(int a, int b)
-{
-  return a > b ? a : b;
 }
