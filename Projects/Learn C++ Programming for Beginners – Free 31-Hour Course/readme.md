@@ -8,12 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=51167>
+<https://youtu.be/8jLOx1hD3_o?t=54936>
 
-(14:12:47) Chapter 11: Functions
-The One Definition Rule
-First Hand on C++ Functions
-Function Declaration and Function Definitions
 Multiple Files - Compilation Model Revisited
 Pass by value
 Pass by pointer
