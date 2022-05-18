@@ -8,10 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=56552>
+<https://youtu.be/8jLOx1hD3_o?t=57033>
 
-Multiple Files - Compilation Model Revisited
-Pass by value
 Pass by pointer
 Pass by reference
 
