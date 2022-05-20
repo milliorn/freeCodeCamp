@@ -8,9 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=57033>
+<https://youtu.be/8jLOx1hD3_o?t=57469>
 
-Pass by pointer
 Pass by reference
 
 (16:03:20) Chapter 12: Getting Things out of functions
