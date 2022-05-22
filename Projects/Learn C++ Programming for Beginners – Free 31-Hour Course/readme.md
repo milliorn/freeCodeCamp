@@ -8,12 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=57469>
+<https://youtu.be/8jLOx1hD3_o?t=58092>
 
-Pass by reference
-
-(16:03:20) Chapter 12: Getting Things out of functions
-Introduction to getting things out of functions
 Input and output parameters
 Returning from functions by value
 
