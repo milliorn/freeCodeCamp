@@ -8,14 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=58092>
-
-Input and output parameters
-Returning from functions by value
-
-(16:32:35) Chapter 13: Function Overloading
-Function Overloading Introduction
-Overloading with different parameters
+<https://youtu.be/8jLOx1hD3_o?t=60541>
 
 (16:49:00) Chapter 14: Lambda functions
 Intro to Lambda Functions
