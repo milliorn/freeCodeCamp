@@ -8,9 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=62429>
+<https://youtu.be/8jLOx1hD3_o?t=63267>
 
-Capture lists
 Capture all in context
 Summary
 
