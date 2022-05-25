@@ -8,11 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=60541>
+<https://youtu.be/8jLOx1hD3_o?t=62429>
 
-(16:49:00) Chapter 14: Lambda functions
-Intro to Lambda Functions
-Declaring and using lambda functions
 Capture lists
 Capture all in context
 Summary
