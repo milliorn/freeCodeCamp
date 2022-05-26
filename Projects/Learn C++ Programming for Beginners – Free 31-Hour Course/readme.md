@@ -8,10 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=63267>
-
-Capture all in context
-Summary
+<https://youtu.be/8jLOx1hD3_o?t=63609>
 
 (17:40:08) Chapter 15: Function Templates
 Intro to function templates
