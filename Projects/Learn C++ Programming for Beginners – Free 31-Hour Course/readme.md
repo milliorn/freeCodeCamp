@@ -8,12 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=63609>
+<https://youtu.be/8jLOx1hD3_o?t=65751>
 
-(17:40:08) Chapter 15: Function Templates
-Intro to function templates
-Trying out function templates
-Template type deduction and explicit arguments
 Template parameters by reference
 Template specialization
 
