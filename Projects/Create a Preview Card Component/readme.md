@@ -1,17 +1,9 @@
 # HTML / CSS Tutorial – Create a Preview Card Component
 
-
-
-<https://www.youtube.com/watch?v=PfhFnPuWums&list=PLK4fpgXhcrIb-L7qsENA5-KiyH6Sgr-kI&index=3&t=1s>
+<https://youtu.be/PfhFnPuWums?list=PLK4fpgXhcrIb-L7qsENA5-KiyH6Sgr-kI&t=587>
 
 ⭐️ Course Contents ⭐️
-⌨️ (0:00:13) Intro
-⌨️ (0:01:07) Project setup
-⌨️ (0:01:42) Intro to design tools
-⌨️ (0:03:03) Starter files
-⌨️ (0:05:16) Creating the project
-⌨️ (0:07:12) Hello world
-⌨️ (0:08:18) Intro To HTML
+
 ⌨️ (0:09:57) Intro to CSS
 ⌨️ (0:11:28) Stylesheet setup
 ⌨️ (0:12:18) HTML, CSS and JS
