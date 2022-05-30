@@ -8,10 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=66948>
-
-Template parameters by reference
-Template specialization
+<https://youtu.be/8jLOx1hD3_o?t=68679>
 
 (19:04:31) Chapter 16: C++20 Concepts Crash course
 Intro to C++20 Concepts
