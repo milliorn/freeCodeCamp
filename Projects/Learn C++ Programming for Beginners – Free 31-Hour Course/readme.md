@@ -8,12 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=68679>
+<https://youtu.be/8jLOx1hD3_o?t=69933>
 
-(19:04:31) Chapter 16: C++20 Concepts Crash course
-Intro to C++20 Concepts
-Using C++20 Concepts
-Building your own C++20 Concepts
 Zooming in on the requires clause
 Combining C++20 Concepts
 C++20 Concepts and auto
