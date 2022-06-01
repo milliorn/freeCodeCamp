@@ -8,11 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=69933>
-
-Zooming in on the requires clause
-Combining C++20 Concepts
-C++20 Concepts and auto
+<https://youtu.be/8jLOx1hD3_o?t=72944>
 
 (20:15:40) Chapter 17: Classes
 Intro to classes
