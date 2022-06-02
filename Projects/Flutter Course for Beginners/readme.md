@@ -6,12 +6,10 @@
 
 <https://github.com/vandadnp/mynotes-course>
 
-<https://youtu.be/VPvVD8t02U8?t=178>
+<https://youtu.be/VPvVD8t02U8?t=2361>
 
 ⭐️ Course Contents ⭐️
 
-⌨️ (00:00:00) Introduction
-⌨️ (00:02:57) Developer Accounts
 ⌨️ (00:39:12) Setup
 ⌨️ (01:14:42) Introduction to Dart
 ⌨️ (02:01:26) Dart Control Statements and Collections
