@@ -8,11 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=72944>
+<https://youtu.be/8jLOx1hD3_o?t=74284>
 
-(20:15:40) Chapter 17: Classes
-Intro to classes
-Your First Class
 C++ Constructors
 Defaulted constructors
 Setters and Getters
