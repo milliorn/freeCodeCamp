@@ -8,9 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=74284>
+<https://youtu.be/8jLOx1hD3_o?t=75217>
 
-C++ Constructors
 Defaulted constructors
 Setters and Getters
 Class Across Multiple Files
