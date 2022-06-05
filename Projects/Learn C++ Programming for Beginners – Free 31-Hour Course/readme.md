@@ -8,9 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=75582>
+<https://youtu.be/8jLOx1hD3_o?t=76207>
 
-Setters and Getters
 Class Across Multiple Files
 Arrow pointer call notation
 Destructors
