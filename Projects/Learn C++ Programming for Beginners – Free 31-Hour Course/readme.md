@@ -8,7 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=76207>
+<https://youtu.be/8jLOx1hD3_o?t=77451>
 
 Class Across Multiple Files
 Arrow pointer call notation
