@@ -8,10 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=77451>
+<https://youtu.be/8jLOx1hD3_o?t=78169>
 
-Class Across Multiple Files
-Arrow pointer call notation
 Destructors
 Order of Constructor Destructor Calls
 The this Pointer
