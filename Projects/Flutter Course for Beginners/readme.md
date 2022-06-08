@@ -6,11 +6,10 @@
 
 <https://github.com/vandadnp/mynotes-course>
 
-<https://youtu.be/VPvVD8t02U8?t=4482>
+<https://youtu.be/VPvVD8t02U8?t=7287>
 
 ⭐️ Course Contents ⭐️
 
-⌨️ (01:14:42) Introduction to Dart
 ⌨️ (02:01:26) Dart Control Statements and Collections
 ⌨️ (02:46:44) Sound Null safety in Dart
 ⌨️ (03:27:12) Dart Enumerations, Classes and Objects
