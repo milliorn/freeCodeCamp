@@ -1,9 +1,11 @@
 # React Router 6 – Tutorial for Beginners
 
-<https://youtu.be/59IXY5IDrBA?list=PLK4fpgXhcrIb-L7qsENA5-KiyH6Sgr-kI>
+<https://github.com/john-smilga/react-router-6-tutorial>
+
+<https://youtu.be/59IXY5IDrBA?list=PLK4fpgXhcrIb-L7qsENA5-KiyH6Sgr-kI&t=663>
 
 ⭐️ Course Contents ⭐️
-⌨️ (0:00:00) First Pages
+
 ⌨️ (0:11:01) Page Components
 ⌨️ (0:15:47) Link Component
 ⌨️ (0:19:39) Error Page
