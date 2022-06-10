@@ -4,6 +4,25 @@ void main() {
   runApp(const MyApp());
 }
 
+void test() {
+  // ignore: prefer_const_declarations
+  final foo = 'foo';
+  // ignore: unused_local_variable
+  final names = ['foo', 'bar', 'baz'];
+  // ignore: unused_local_variable
+  final name = {'foo', 'bar', 'baz'};
+  // ignore: unused_local_variable
+  final maps = {1: 'foo', 2: 'bar', 3: 'baz'};
+
+  if (foo == "foo") {
+    // ignore: avoid_print
+    print("we are foo");
+  } else {
+    // ignore: avoid_print
+    print("we are not foo");
+  }
+}
+
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
@@ -24,7 +43,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Flutter Demo Page'),
     );
   }
 }
