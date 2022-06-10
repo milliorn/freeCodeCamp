@@ -8,9 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=79545>
+<https://youtu.be/8jLOx1hD3_o?t=79865>
 
-Order of Constructor Destructor Calls
 The this Pointer
 struct
 Size of objects
