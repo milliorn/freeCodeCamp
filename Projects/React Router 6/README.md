@@ -2,12 +2,10 @@
 
 <https://github.com/john-smilga/react-router-6-tutorial>
 
-<https://youtu.be/59IXY5IDrBA?list=PLK4fpgXhcrIb-L7qsENA5-KiyH6Sgr-kI&t=944>
+<https://youtu.be/59IXY5IDrBA?list=PLK4fpgXhcrIb-L7qsENA5-KiyH6Sgr-kI&t=1205>
 
 ⭐️ Course Contents ⭐️
 
-⌨️ (0:11:01) Page Components
-⌨️ (0:15:47) Link Component
 ⌨️ (0:19:39) Error Page
 ⌨️ (0:22:39) Navbar
 ⌨️ (0:24:39) Nested Routes
