@@ -5,7 +5,7 @@
 int main()
 {
   Cylinder cylinder;
-  // Dog dog("Frenchie", "Tazz", 1);
+
   std::cout << "volume -> " << cylinder.volume() << std::endl;
   std::cout << "radius -> " << cylinder.get_base_radius() << std::endl;
   std::cout << "height -> " << cylinder.get_height() << std::endl;
@@ -22,6 +22,10 @@ int main()
 
   delete p_cylinder2;
   dog_func();
+
+  Dog dog("Frenchie", "Tazz", 1);
+  dog.print_info();
+  dog.set_dog_name("Tazzy");
 
   Dog dog1("Dog1", "Sheperd", 1);
   Dog dog2("Dog2", "Sheperd", 3);

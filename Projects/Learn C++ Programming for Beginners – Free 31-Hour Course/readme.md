@@ -8,9 +8,8 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=79865>
+<https://youtu.be/8jLOx1hD3_o?t=81216>
 
-The this Pointer
 struct
 Size of objects
 
