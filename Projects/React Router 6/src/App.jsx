@@ -7,7 +7,6 @@ import Error from "./pages/Error";
 function App() {
   return (
     <BrowserRouter>
-    <nav>navbar</nav>
       <Routes>
         <Route path="*" element={<Error />} />
         <Route path="/" element={<Home />} />
@@ -22,7 +21,6 @@ function App() {
           }
         />
       </Routes>
-      <footer>footer</footer>
     </BrowserRouter>
   );
 }
