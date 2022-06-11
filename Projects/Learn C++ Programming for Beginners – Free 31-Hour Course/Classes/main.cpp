@@ -1,10 +1,11 @@
 #include "Cylinder.h"
+#include "Dog.h"
 #include <iostream>
 
 int main()
 {
   Cylinder cylinder;
-
+  // Dog dog("Frenchie", "Tazz", 1);
   std::cout << "volume -> " << cylinder.volume() << std::endl;
   std::cout << "radius -> " << cylinder.get_base_radius() << std::endl;
   std::cout << "height -> " << cylinder.get_height() << std::endl;
@@ -20,5 +21,11 @@ int main()
   std::cout << "radius2 -> " << p_cylinder2->get_base_radius() << std::endl;
 
   delete p_cylinder2;
+  dog_func();
+
+  Dog dog1("Dog1", "Sheperd", 1);
+  Dog dog2("Dog2", "Sheperd", 3);
+  Dog dog3("Dog3", "Sheperd", 4);
+  Dog dog4("Dog4", "Sheperd", 2);
   return 0;
 }
