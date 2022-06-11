@@ -6,8 +6,6 @@
 
 ⭐️ Course Contents ⭐️
 
-⌨️ (0:19:39) Error Page
-⌨️ (0:22:39) Navbar
 ⌨️ (0:24:39) Nested Routes
 ⌨️ (0:29:39) Shared Layout
 ⌨️ (0:35:58) Index Pages
