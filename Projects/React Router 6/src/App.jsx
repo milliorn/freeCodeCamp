@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Products from "./pages/Products";
 import SharedLayout from "./pages/SharedLayout";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import SingleProduct from "./pages/SingleProduct";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route path="*" element={<Error />} />
           <Route path="about" element={<About />} />
           <Route path="products" element={<Products />} />
+          <Route path="products/:productId" element={<SingleProduct />} />
         </Route>
         <Route
           path="testing"

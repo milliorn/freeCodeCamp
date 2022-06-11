@@ -6,7 +6,6 @@
 
 ⭐️ Course Contents ⭐️
 
-⌨️ (0:49:02) URL Params
 ⌨️ (0:55:56) Single Product
 ⌨️ (1:01:36) useNavigate()
 ⌨️ (1:09:49) Protected Route

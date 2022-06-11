@@ -7,7 +7,7 @@ const Navbar = () => {
         to="/"
         className={({ isActive }) => (isActive ? "link active" : "link")}
       >
-        Home
+        home
       </NavLink>
       <NavLink
         to="about"
