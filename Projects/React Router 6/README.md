@@ -6,8 +6,6 @@
 
 ⭐️ Course Contents ⭐️
 
-⌨️ (0:29:39) Shared Layout
-⌨️ (0:35:58) Index Pages
 ⌨️ (0:41:43) NavLink Component
 ⌨️ (0:49:02) URL Params
 ⌨️ (0:55:56) Single Product
