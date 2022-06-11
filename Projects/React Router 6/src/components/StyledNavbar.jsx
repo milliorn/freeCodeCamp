@@ -7,22 +7,27 @@ const Navbar = () => {
         to="/"
         className={({ isActive }) => (isActive ? "link active" : "link")}
       >
-        home
+        Home
       </NavLink>
       <NavLink
-        to="about"
+        to="/about"
         className={({ isActive }) => (isActive ? "link active" : "link")}
       >
-        about
+        About
       </NavLink>
       <NavLink
-        to="products"
+        to="/products"
         className={({ isActive }) => (isActive ? "link active" : "link")}
       >
-        products
+        Products
+      </NavLink>
+      <NavLink
+        to="/login"
+        className={({ isActive }) => (isActive ? "link active" : "link")}
+      >
+        Login
       </NavLink>
     </nav>
   );
 };
-
 export default Navbar;
