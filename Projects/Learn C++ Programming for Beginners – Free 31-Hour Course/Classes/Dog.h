@@ -28,6 +28,8 @@ private:
   std::string name;
   std::string breed;
   int *p_age{nullptr};
+  size_t leg_count;
+  size_t arm_count;
 };
 
 Dog::Dog(std::string_view dogName, std::string_view dogBreed, int dogAge)

@@ -24,6 +24,9 @@ int main()
   dog_func();
 
   Dog dog("Frenchie", "Tazz", 1);
+  std::cout << "sizeof(size_t) : " << sizeof(size_t) << std::endl;
+  std::cout << "sizeof(Dog) : " << sizeof(Dog) << std::endl;
+
   dog.print_info();
   dog.set_dog_name("Tazzy");
 
