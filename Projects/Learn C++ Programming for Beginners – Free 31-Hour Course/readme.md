@@ -8,7 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=81216>
+<https://youtu.be/8jLOx1hD3_o?t=81758>
 
 struct
 Size of objects

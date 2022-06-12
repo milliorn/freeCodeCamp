@@ -31,5 +31,9 @@ int main()
   Dog dog2("Dog2", "Sheperd", 3);
   Dog dog3("Dog3", "Sheperd", 4);
   Dog dog4("Dog4", "Sheperd", 2);
+
+  Cat cat;
+  cat.m_name = "Joe";
+  std::cout << cat.m_name << std::endl;
   return 0;
 }
