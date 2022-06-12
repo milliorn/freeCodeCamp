@@ -2,8 +2,6 @@
 
 <https://youtu.be/1WmNXEVia8I>
 
-⌨️ (0:00:00) Introduction
-⌨️ (0:02:52) What is Next.js
 ⌨️ (0:04:05) Tools: Node.js, VS Code, and the command line
 ⌨️ (0:05:15) Setting up Next.js
 ⌨️ (0:10:02) Setting the Sanity Studio CMS
