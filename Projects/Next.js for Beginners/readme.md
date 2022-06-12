@@ -2,8 +2,10 @@
 
 <https://youtu.be/1WmNXEVia8I>
 
-⌨️ (0:04:05) Tools: Node.js, VS Code, and the command line
-⌨️ (0:05:15) Setting up Next.js
+<https://github.com/sanity-io/next-recipe-app>
+
+<https://youtu.be/1WmNXEVia8I?t=600>
+
 ⌨️ (0:10:02) Setting the Sanity Studio CMS
 ⌨️ (0:53:12) Connecting Next.js with your content lake
 ⌨️ (1:04:54) Making a simple navigation bar in _app.js
