@@ -8,7 +8,7 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=82367>
+<https://youtu.be/8jLOx1hD3_o?t=84083>
 
 Chapter 18: Inheritance
 -Introduction to Inheritance                    22:52:43
