@@ -1,3 +1,5 @@
+// ignore_for_file: unused_local_variable, prefer_const_declarations
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -5,13 +7,14 @@ void main() {
 }
 
 void test() {
-  // ignore: prefer_const_declarations
+  var person = {
+    'age': 20,
+    'name': 'Foo',
+  };
+
   final foo = 'foo';
-  // ignore: unused_local_variable
   final names = ['foo', 'bar', 'baz'];
-  // ignore: unused_local_variable
   final name = {'foo', 'bar', 'baz'};
-  // ignore: unused_local_variable
   final maps = {1: 'foo', 2: 'bar', 3: 'baz'};
 
   if (foo == "foo") {
