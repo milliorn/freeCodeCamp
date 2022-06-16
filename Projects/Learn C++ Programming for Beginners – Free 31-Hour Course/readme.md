@@ -4,11 +4,11 @@
 
 <https://www.youtube.com/watch?v=8jLOx1hD3_o>
 
-💻 Source code: <https://github.com/rutura/The-C-20-Ma>...
+💻 Source code: <https://github.com/rutura/The-C-20-Masterclass-Source-Code>
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=82367>
+<https://youtu.be/8jLOx1hD3_o?t=84083>
 
 Chapter 18: Inheritance
 -Introduction to Inheritance                    22:52:43
