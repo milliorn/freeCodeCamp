@@ -21,12 +21,26 @@ router.get("/getOne/:id", async (req, res) => {
   }
 });
 
-router.patch("/update/:id", (req, res) => {
-  res.send("Update by ID API");
+router.patch("/update/:id", async (req, res) => {
+  try {
+    const id = req.params.id;
+    const updateData = req.body;
+    const options = { new: true };
+    const result = await Model.findByIdAndUpdate(id, updateData, options);
+    res.send(result);
+  } catch (error) {
+    res.status(400).json({ message: error.message });
+  }
 });
 
-router.delete("/delete/:id", (req, res) => {
-  res.send("Delete by ID API");
+router.delete("/delete/:id", async (req, res) => {
+  try {
+    const id = req.params.id;
+    const data = await Model.findByIdAndDelete(id);
+    res.send(`Document with ${data.name} has been deleted.`);
+  } catch (error) {
+    re.status(400).json({ message: error.message });
+  }
 });
 
 router.post("/post", async (req, res) => {
