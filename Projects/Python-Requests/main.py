@@ -24,3 +24,11 @@ query_params = {
 
 response = requests.get(f"{BASE_URL}/products/18")
 print(response.json())
+
+updated_product = {
+    "title": 'updated_product',
+    "category": 'clothing'
+}
+
+response = requests.put(f"{BASE_URL}/products/21", json=updated_product)
+print(response.json())
