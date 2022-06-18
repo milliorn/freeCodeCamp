@@ -39,3 +39,6 @@ updated_product = {
 
 response = requests.patch(f"{BASE_URL}/products/21", json=updated_product)
 print(response.json())
+
+response = requests.delete(f"{BASE_URL}/products/21")
+print(response.json())
