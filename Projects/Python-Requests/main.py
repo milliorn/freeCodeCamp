@@ -1,5 +1,6 @@
-import requests
 import json
+
+import requests
 
 BASE_URL = 'https://fakestoreapi.com'
 
@@ -15,7 +16,8 @@ headers = {
     "Content-Type": "application/json"
 }
 
-response = requests.post(f"{BASE_URL}/products", data=json.dumps(new_product), headers=headers)
+response = requests.post(f"{BASE_URL}/products",
+                         data=json.dumps(new_product), headers=headers)
 print(response.json())
 
 query_params = {
