@@ -1,7 +1,9 @@
 <template>
   <div id="app">
-    <CharacterViewer />
-    <CharacterCreator />
+    <button v-on:click="toggle = 'character-viewer'">View all characters</button>
+    <button v-on:click="toggle = 'character-creator'">Create a character</button>
+    <CharacterViewer v-show="toggle === 'character-viewer'" />
+    <CharacterCreator v-show="toggle === 'character-creator'" />
   </div>
 </template>
 
@@ -14,6 +16,11 @@ export default {
   components: {
     CharacterViewer,
     CharacterCreator
+  },
+  data: function () {
+    return {
+      toggle: "character-viewer"
+    }
   }
 }
 </script>
