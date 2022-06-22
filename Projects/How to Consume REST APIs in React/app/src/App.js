@@ -12,44 +12,61 @@ function App() {
 
   /* GET request with Fetch api */
   useEffect(() => {
-    fetch(endpoint) /* The fetch request yields a promise*/
-      .then((response) => response.json()) /* Convert data to json */
-      .then((data) => {
-        /* Resolve promise */
-        console.log(data);
-        setPosts(data);
-      })
-      .catch((err) => {
-        console.log(err.message);
-      });
+    const fetchPost = async () => {
+      /* The fetch request yields a promise*/
+      const response = await fetch(endpoint);
+      /* Resolve promise */
+      const data = await response.json();
+      console.log(data);
+      setPosts(data);
+    };
+    fetchPost();
   }, []);
 
   /* POST method to send data from an endpoint. */
   const addPosts = async (title, body) => {
-    await fetch(endpoint, {
+    let response = await fetch("https://jsonplaceholder.typicode.com/posts", {
       method: "POST",
       body: JSON.stringify({
-        /*The body holds the data we want to pass into the API,
-        which we must first stringify because we are sending data to a web server */
+        /*
+          The body holds the data we want to pass into the API,
+          which we must first stringify because we are sending data to a web server
+        */
         title: title,
         body: body,
         userId: Math.random().toString(36).slice(2),
       }),
       headers: {
-        /*The header tells us the type of data, which is always the same when consuming REST API's. */
+        /*
+          The header tells us the type of data,
+          which is always the same when consuming REST API's.
+        */
         "Content-type": "application/json; charset=UTF-8",
       },
-    })
-      .then((response) => response.json())
-      .then((data) => {
-        /* Set the state to hold the new data and distribute the remaining data into the array. */
-        setPosts((posts) => [data, ...posts]);
-        setTitle("");
-        setBody("");
-      })
-      .catch((err) => {
-        console.log(err.message);
-      });
+    });
+    /* Set the state to hold the new data and distribute the remaining data into the array. */
+    let data = await response.json();
+    setPosts((posts) => [data, ...posts]);
+    setTitle("");
+    setBody("");
+  };
+
+  /*
+    DELETE method to remove data from an endpoint.
+    This gets triggered when the button is clicked, and we get the id of the specific post in which the button was clicked.
+  */
+  const deletePost = async (id) => {
+    let response = await fetch(
+      `https://jsonplaceholder.typicode.com/posts/${id}`,
+      {
+        method: "DELETE",
+      }
+    );
+    if (response.status === 200) {
+      setPosts(posts.filter((post) => post.id !== id));
+    } else {
+      return;
+    }
   };
 
   const handleSubmit = (e) => {
@@ -62,24 +79,21 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <div className="add-post-container">
-          <form onSubmit={handleSubmit}>
-            <input
-              type="text"
-              className="form-control"
-              value={title}
-              onChange={(e) => setTitle(e.target.value)}
-            />
-            <textarea
-              name=""
-              className="form-control"
-              id=""
-              cols="1"
-              rows="1"
-              value={body}
-              onChange={(e) => setBody(e.target.value)}
-            ></textarea>
-            <button type="submit">Add Post</button>
-          </form>{" "}
+          {posts.map((post) => {
+            return (
+              <div className="post-card" key={post.id}>
+                {/* ... */}
+                <div className="button">
+                  <div
+                    className="delete-btn"
+                    onClick={() => deletePost(post.id)}
+                  >
+                    Delete
+                  </div>
+                </div>
+              </div>
+            );
+          })}
         </div>
       </header>
     </div>
