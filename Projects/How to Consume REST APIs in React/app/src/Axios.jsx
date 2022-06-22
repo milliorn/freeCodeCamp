@@ -21,6 +21,18 @@ function App() {
     });
   }, []);
 
+  /* POST requests */
+  const addPosts = (title, body) => {
+    client
+      .post("", {
+        title: title,
+        body: body,
+      })
+      .then((response) => {
+        setPosts((posts) => [response.data, ...posts]);
+      });
+  };
+
   return (
     <div className="App">
       <header className="App-header">
