@@ -25,30 +25,34 @@ function App() {
 
   /* POST method to send data from an endpoint. */
   const addPosts = async (title, body) => {
-    let response = await fetch("https://jsonplaceholder.typicode.com/posts", {
-      method: "POST",
-      body: JSON.stringify({
-        /*
+    try {
+      let response = await fetch("https://jsonplaceholder.typicode.com/posts", {
+        method: "POST",
+        body: JSON.stringify({
+          /*
           The body holds the data we want to pass into the API,
           which we must first stringify because we are sending data to a web server
         */
-        title: title,
-        body: body,
-        userId: Math.random().toString(36).slice(2),
-      }),
-      headers: {
-        /*
+          title: title,
+          body: body,
+          userId: Math.random().toString(36).slice(2),
+        }),
+        headers: {
+          /*
           The header tells us the type of data,
           which is always the same when consuming REST API's.
         */
-        "Content-type": "application/json; charset=UTF-8",
-      },
-    });
-    /* Set the state to hold the new data and distribute the remaining data into the array. */
-    let data = await response.json();
-    setPosts((posts) => [data, ...posts]);
-    setTitle("");
-    setBody("");
+          "Content-type": "application/json; charset=UTF-8",
+        },
+      });
+      /* Set the state to hold the new data and distribute the remaining data into the array. */
+      let data = await response.json();
+      setPosts((posts) => [data, ...posts]);
+      setTitle("");
+      setBody("");
+    } catch (error) {
+      console.log(error);
+    }
   };
 
   /*
@@ -88,7 +92,18 @@ function App() {
                     className="delete-btn"
                     onClick={() => deletePost(post.id)}
                   >
-                    Delete
+                    <span>userId: </span>
+                    {post.userId}
+                    <br />
+                    <span>id: </span>
+                    {post.id}
+                    <br />
+                    <span>title: </span>
+                    {post.title}
+                    <br />
+                    <span>body: </span>
+                    {post.body}
+                    <br />
                   </div>
                 </div>
               </div>
