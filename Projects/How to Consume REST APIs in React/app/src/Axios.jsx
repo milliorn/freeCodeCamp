@@ -3,43 +3,46 @@ import axios from "axios";
 import logo from "./logo.svg";
 import { useState, useEffect } from "react";
 
-function App() {
-  /* create state to store data */
-  const [posts, setPosts] = useState([]);
+const App = () => {
   const [title, setTitle] = useState("");
   const [body, setBody] = useState("");
+  const [posts, setPosts] = useState([]);
 
-  /* Create an instance */
   const endpoint = axios.create({
     baseURL: "https://jsonplaceholder.typicode.com/posts",
   });
 
-  /* GET request */
+  // GET with Axios
   useEffect(() => {
-    endpoint.get("?_limit=10").then((response) => {
+    const fetchPost = async () => {
+      let response = await endpoint.get("?_limit=10");
       setPosts(response.data);
-    });
+    };
+    fetchPost();
   }, []);
 
-  /* POST requests */
-  const addPosts = (title, body) => {
-    endpoint
-      .post("", {
-        title: title,
-        body: body,
-      })
-      .then((response) => {
-        setPosts((posts) => [response.data, ...posts]);
-      });
-  };
-
-  const deletePost = (id) => {
-    endpoint.delete(`${id}`);
+  // Delete with Axios
+  const deletePost = async (id) => {
+    await endpoint.delete(`${id}`);
     setPosts(
       posts.filter((post) => {
         return post.id !== id;
       })
     );
+  };
+
+  // Post with Axios
+  const addPosts = async (title, body) => {
+    let response = await endpoint.post("", {
+      title: title,
+      body: body,
+    });
+    setPosts((posts) => [response.data, ...posts]);
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    addPosts(title, body);
   };
 
   return (
@@ -76,6 +79,6 @@ function App() {
       </header>
     </div>
   );
-}
+};
 
 export default App;
