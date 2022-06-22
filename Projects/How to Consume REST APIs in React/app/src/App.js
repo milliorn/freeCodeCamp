@@ -1,9 +1,26 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 function App() {
+  /* create state to store data */
   const [posts, setPosts] = useState([]);
+
+  const endpoint = "https://jsonplaceholder.typicode.com/posts?_limit=10";
+
+  /* GET request with Fetch api */
+  useEffect(() => {
+    fetch(endpoint) /* The fetch request yields a promise*/
+      .then((response) => response.json()) /* Convert data to json */
+      .then((data) => {
+        /* Resolve promise */
+        console.log(data);
+        setPosts(data);
+      })
+      .catch((err) => {
+        console.log(err.message);
+      });
+  }, []);
 
   return (
     <div className="App">
