@@ -90,7 +90,6 @@ function App() {
           {posts.map((post) => {
             return (
               <div className="post-card" key={post.id}>
-                {/* ... */}
                 <div className="button">
                   <div
                     className="delete-btn"
