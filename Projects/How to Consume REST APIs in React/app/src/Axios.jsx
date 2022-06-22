@@ -10,20 +10,20 @@ function App() {
   const [body, setBody] = useState("");
 
   /* Create an instance */
-  const client = axios.create({
+  const endpoint = axios.create({
     baseURL: "https://jsonplaceholder.typicode.com/posts",
   });
 
   /* GET request */
   useEffect(() => {
-    client.get("?_limit=10").then((response) => {
+    endpoint.get("?_limit=10").then((response) => {
       setPosts(response.data);
     });
   }, []);
 
   /* POST requests */
   const addPosts = (title, body) => {
-    client
+    endpoint
       .post("", {
         title: title,
         body: body,
@@ -31,6 +31,15 @@ function App() {
       .then((response) => {
         setPosts((posts) => [response.data, ...posts]);
       });
+  };
+
+  const deletePost = (id) => {
+    endpoint.delete(`${id}`);
+    setPosts(
+      posts.filter((post) => {
+        return post.id !== id;
+      })
+    );
   };
 
   return (
