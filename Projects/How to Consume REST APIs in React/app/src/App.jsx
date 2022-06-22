@@ -60,16 +60,20 @@ function App() {
     This gets triggered when the button is clicked, and we get the id of the specific post in which the button was clicked.
   */
   const deletePost = async (id) => {
-    let response = await fetch(
-      `https://jsonplaceholder.typicode.com/posts/${id}`,
-      {
-        method: "DELETE",
+    try {
+      let response = await fetch(
+        `https://jsonplaceholder.typicode.com/posts/${id}`,
+        {
+          method: "DELETE",
+        }
+      );
+      if (response.status === 200) {
+        setPosts(posts.filter((post) => post.id !== id));
+      } else {
+        return;
       }
-    );
-    if (response.status === 200) {
-      setPosts(posts.filter((post) => post.id !== id));
-    } else {
-      return;
+    } catch (error) {
+      console.log(error);
     }
   };
 
