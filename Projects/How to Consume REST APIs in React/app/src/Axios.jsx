@@ -1,12 +1,25 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { useState, useEffect } from "react";
 import axios from "axios";
+import logo from "./logo.svg";
+import { useState, useEffect } from "react";
 
 function App() {
+  /* create state to store data */
+  const [posts, setPosts] = useState([]);
+  const [title, setTitle] = useState("");
+  const [body, setBody] = useState("");
+
+  /* Create an instance */
   const client = axios.create({
     baseURL: "https://jsonplaceholder.typicode.com/posts",
   });
+
+  /* GET request */
+  useEffect(() => {
+    client.get("?_limit=10").then((response) => {
+      setPosts(response.data);
+    });
+  }, []);
 
   return (
     <div className="App">
