@@ -6,11 +6,10 @@
 
 <https://github.com/vandadnp/mynotes-course>
 
-<https://youtu.be/VPvVD8t02U8?t=15518>
+<https://youtu.be/VPvVD8t02U8?t=18042>
 
 ⭐️ Course Contents ⭐️
 
-⌨️ (04:18:36) Advanced Dart
 ⌨️ (05:00:41) Project Setup
 ⌨️ (05:48:30) iOS App Setup
 ⌨️ (06:59:32) Android App Setup

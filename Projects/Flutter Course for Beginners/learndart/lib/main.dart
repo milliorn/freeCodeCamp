@@ -19,6 +19,7 @@ class Person {
 class Cat {
   final String name;
   Cat(this.name);
+
   factory Cat.fluffBall() {
     return Cat('Fluff Ball');
   }
@@ -26,10 +27,13 @@ class Cat {
   bool operator ==(covariant Cat other) => other.name == name;
 }
 
+extension Run on Cat {
+  void run() {}
+}
+
 void test() {
-  final person = Person();
-  person.run();
-  person.breath();
+  final meow = Cat('Fluffers');
+  print(meow.name);
 }
 
 class MyApp extends StatelessWidget {
