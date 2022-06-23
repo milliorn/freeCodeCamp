@@ -15,8 +15,12 @@ const App = () => {
   // GET with Axios
   useEffect(() => {
     const fetchPost = async () => {
-      let response = await endpoint.get("?_limit=10");
-      setPosts(response.data);
+      try {
+        let response = await endpoint.get("?_limit=10");
+        setPosts(response.data);
+      } catch (error) {
+        console.log(error);
+      }
     };
     fetchPost();
   }, []);
