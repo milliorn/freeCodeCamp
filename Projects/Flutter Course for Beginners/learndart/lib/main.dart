@@ -1,4 +1,4 @@
-// ignore_for_file: unused_local_variable, prefer_const_declarations
+// ignore_for_file: unused_local_variable, prefer_const_declarations, avoid_print, hash_and_equals
 
 import 'package:flutter/material.dart';
 
@@ -6,24 +6,30 @@ void main() {
   runApp(const MyApp());
 }
 
-void test() {
-  var person = {
-    'age': 20,
-    'name': 'Foo',
-  };
-
-  final foo = 'foo';
-  final names = ['foo', 'bar', 'baz'];
-  final name = {'foo', 'bar', 'baz'};
-  final maps = {1: 'foo', 2: 'bar', 3: 'baz'};
-
-  if (foo == "foo") {
-    // ignore: avoid_print
-    print("we are foo");
-  } else {
-    // ignore: avoid_print
-    print("we are not foo");
+class Person {
+  void run() {
+    print("Running");
   }
+
+  void breath() {
+    print("Breathe");
+  }
+}
+
+class Cat {
+  final String name;
+  Cat(this.name);
+  factory Cat.fluffBall() {
+    return Cat('Fluff Ball');
+  }
+  @override
+  bool operator ==(covariant Cat other) => other.name == name;
+}
+
+void test() {
+  final person = Person();
+  person.run();
+  person.breath();
 }
 
 class MyApp extends StatelessWidget {
