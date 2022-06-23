@@ -8,36 +8,20 @@
 
 ⭐️ Course Contents ⭐
 
-<https://youtu.be/8jLOx1hD3_o?t=84083>
+<https://youtu.be/8jLOx1hD3_o?t=94864>
 
-Chapter 18: Inheritance
--Introduction to Inheritance                    22:52:43
--First try on Inheritance                        22:56:00
--Protected members                            23:21:12
--Base class access specifiers : Zooming in    23:32:05
--Closing in on Private Inheritance             24:07:45
--Resurrecting Members Back in Context            24:26:36
--Default Constructors with Inheritance        24:47:00
--Custom Constructors With Inheritance           24:56:00
--Copy Constructors with Inheritance              25:26:56
--Inheriting Base Constructors                   25:51:54
--Inheritance and Destructors                      26:06:00
--Reused Symbols in Inheritance                 26:12:24
-
-Chapter 19: Polymorphism
--Introduction to Polymorphism                        26:21:03
--Static Binding with Inheritance                    26:26:53
--Dynamic binding with virtual functions
--Size of polymorphic objects and slicing
--Polymorphic objects stored in collections (array)
--Override
--Overloading, overriding and function hiding
--Inheritance and Polymorphism at different levels
--Inheritance and polymorphism with static members
--Final
--Virtual functions with default arguments
--Virtual Destructors
--Dynamic casts
--Polymorphic Functions and Destructors
--Pure virtual functions and abstract classes
--Abstract Classes as Interfaces
+26:21:07.666  Chapter 19: Polymorphism
+26:55:24.100 Dynamic binding with virtual functions
+27:14:41.666 Size of polymorphic objects and slicing
+27:26:47.866 Polymorphic objects stored in collections
+27:45:51.900 Override
+27:52:45.933 Overloading, overriding and function hiding
+28:07:39.800 Inheritance and Polymorphism at different levels
+28:33:07.666 Inheritance and polymorphism with static members
+28:49:13.833 Final
+29:07:42.466 Virtual functions with default arguments
+29:23:21.066 Virtual Destructors
+29:35:42.399 Dynamic casts
+30:08:23.066 Polymorphic Functions and Destructors
+30:24:46.754 Pure virtual functions and abstract classes
+30:43:37.633 Abstract Classes as Interfaces
