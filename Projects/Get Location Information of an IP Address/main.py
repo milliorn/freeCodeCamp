@@ -1,16 +1,29 @@
-# This is a sample Python script.
+import requests
+import pprint
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+def get_ip():
+    response = requests.get('https://api64.ipify.org?format=json').json()
+    return response["ip"]
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+def get_location():
+    ip_address = get_ip()
+    response = requests.get(f'https://ipapi.co/{ip_address}/json/').json()
+    location_data = {
+        "ip": ip_address,
+        "version": response.get("version"),
+        "city": response.get("city"),
+        "region": response.get("region"),
+        "region code": response.get("region_code"),
+        "country name": response.get("country_name"),
+        "country": response.get("country_code_iso3"),
+        "continent": response.get("continent_code"),
+        "zip": response.get("postal"),
+        "latitude": response.get("latitude"),
+        "longitude": response.get("longitude"),
+        "timezone": response.get("timezone"),
+    }
+    return location_data
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+pprint.pprint(get_location())
