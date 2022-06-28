@@ -4,6 +4,12 @@
 
 <https://github.com/sanity-io/next-recipe-app>
 
+<https://www.sanity.io/>
+
+<https://www.sanity.io/docs/schema-types>
+
+<https://www.sanity.io/docs/previews-list-views>
+
 <https://youtu.be/1WmNXEVia8I?t=600>
 
 ⌨️ (0:10:02) Setting the Sanity Studio CMS

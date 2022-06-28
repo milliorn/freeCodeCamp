@@ -1,15 +1,14 @@
 {
   "root": true,
   "project": {
-    "name": "studio"
+    "name": "studio-recipe"
   },
   "api": {
-    "projectId": "hajlrit4",
+    "projectId": "4iai1yfm",
     "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
-    "@sanity/components",
     "@sanity/default-layout",
     "@sanity/default-login",
     "@sanity/desk-tool"
