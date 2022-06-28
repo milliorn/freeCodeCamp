@@ -8,9 +8,12 @@
 
 <https://github.com/jmbharathram/executeoncommand/tree/master/mysql>
 
+<https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_ct%26src%3Dheader-signin%26state%3DhashArgsFromTB_us-west-1_7ff1089ca3ccaf53&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=kuV4mPM2EPtUXUMFUmzpRD-ORKOCpViNgheyfA9Z9g0&code_challenge_method=SHA-256>
+
+<https://youtu.be/ER8oKX5myE0?t=465>
+
 ⭐️ Course Contents ⭐️
-⌨️ (0:00:00) Introduction
-⌨️ (0:04:03) How to create an AWS EC2 Instance
+
 ⌨️ (0:07:47) How to install MySQL database
 ⌨️ (0:15:43) Data Modeling
 ⌨️ (0:42:04) SQL Basics - Creating a Table
