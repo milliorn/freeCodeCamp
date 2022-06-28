@@ -10,9 +10,8 @@
 
 <https://www.sanity.io/docs/previews-list-views>
 
-<https://youtu.be/1WmNXEVia8I?t=600>
+<https://youtu.be/1WmNXEVia8I?t=3190>
 
-⌨️ (0:10:02) Setting the Sanity Studio CMS
 ⌨️ (0:53:12) Connecting Next.js with your content lake
 ⌨️ (1:04:54) Making a simple navigation bar in _app.js
 ⌨️ (1:10:45) Making your first page template in index.js
