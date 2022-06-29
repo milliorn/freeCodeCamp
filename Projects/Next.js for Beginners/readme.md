@@ -10,9 +10,10 @@
 
 <https://www.sanity.io/docs/previews-list-views>
 
-<https://youtu.be/1WmNXEVia8I?t=3190>
+<https://www.sanity.io/manage>
 
-⌨️ (0:53:12) Connecting Next.js with your content lake
+<https://youtu.be/1WmNXEVia8I?t=3892>
+
 ⌨️ (1:04:54) Making a simple navigation bar in _app.js
 ⌨️ (1:10:45) Making your first page template in index.js
 ⌨️ (1:30:15) Setting up dynamic routes with [slug].js

@@ -6,7 +6,7 @@ import {
 } from "next-sanity";
 
 const config = {
-  projectId: "hajlrit4",
+  projectId: "4iai1yfm",
   dataset: "production",
   apiVersion: "2021-03-25",
   useCdn: false,
