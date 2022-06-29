@@ -2,6 +2,7 @@ let form = document.getElementById("form");
 let input = document.getElementById("input");
 let msg = document.getElementById("msg");
 let posts = document.getElementById("posts");
+let data = {};
 
 form.addEventListener("submit", (e) => {
   e.preventDefault();
@@ -17,5 +18,11 @@ let formValidation = () => {
   } else {
     console.log("successs");
     msg.innerHTML = "";
+    acceptData();
   }
+};
+
+let acceptData = () => {
+  data["text"] = input.value;
+  console.log(data);
 };
