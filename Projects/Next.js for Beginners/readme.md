@@ -14,7 +14,9 @@
 
 <https://www.sanity.io/docs/groq>
 
-<https://youtu.be/1WmNXEVia8I?t=5779>
+<https://heropatterns.com/>
+
+<https://youtu.be/1WmNXEVia8I?t=7295>
 
 ⌨️ (1:36:14) Diving into data fetching and pre-rendering with getStaticPaths & getStaticProps
 ⌨️ (2:01:36) Create a like button with API routes and serverless functions
