@@ -16,8 +16,7 @@
 
 <https://heropatterns.com/>
 
-<https://youtu.be/1WmNXEVia8I?t=8190>
+<https://youtu.be/1WmNXEVia8I?t=8709>
 
-⌨️ (2:16:46) Adding live real-time preview with Sanity.io's content lake
 ⌨️ (2:25:11) Set up automatic deployment with GitHub and Vercel
 ⌨️ (2:35:18) Summary: What you have learned and next steps
