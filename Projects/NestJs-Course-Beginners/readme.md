@@ -4,12 +4,10 @@
 
 <https://github.com/vladwulf/nestjs-api-tutorial>
 
+<https://youtu.be/GHTA143_b-s?t=417>
+
 ⭐️ Course Contents ⭐
-⌨️ (0:00:00) Course introduction
-⌨️ (0:01:15) What is NestJs
-⌨️ (0:02:35) Why using NestJs
-⌨️ (0:03:35) What we are building
-⌨️ (0:03:55) NestJs project setup
+
 ⌨️ (0:05:55) Modules
 ⌨️ (0:15:30) Auth module
 ⌨️ (0:19:50) Dependency injection
