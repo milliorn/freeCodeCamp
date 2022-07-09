@@ -4,11 +4,10 @@
 
 <https://github.com/vladwulf/nestjs-api-tutorial>
 
-<https://www.youtube.com/watch?v=GHTA143_b-s&t=933>
+<https://youtu.be/GHTA143_b-s?t=1597>
 
 ⭐️ Course Contents ⭐
 
-⌨️ (0:20:30) Auth controller
 ⌨️ (0:26:50) Setting up postgres in docker
 ⌨️ (0:29:10) Setting up prisma
 ⌨️ (0:32:10) User & bookmark models
