@@ -4,13 +4,10 @@
 
 <https://github.com/vladwulf/nestjs-api-tutorial>
 
-<https://youtu.be/GHTA143_b-s?t=933>
+<https://www.youtube.com/watch?v=GHTA143_b-s&t=933>
 
 ⭐️ Course Contents ⭐
 
-⌨️ (0:05:55) Modules
-⌨️ (0:15:30) Auth module
-⌨️ (0:19:50) Dependency injection
 ⌨️ (0:20:30) Auth controller
 ⌨️ (0:26:50) Setting up postgres in docker
 ⌨️ (0:29:10) Setting up prisma
