@@ -4,11 +4,14 @@
 
 <https://github.com/vladwulf/nestjs-api-tutorial>
 
-<https://youtu.be/GHTA143_b-s?t=1597>
+<https://youtu.be/GHTA143_b-s?t=1743>
+
+```ps
+docker-compose up dev-db
+```
 
 ⭐️ Course Contents ⭐
 
-⌨️ (0:26:50) Setting up postgres in docker
 ⌨️ (0:29:10) Setting up prisma
 ⌨️ (0:32:10) User & bookmark models
 ⌨️ (0:35:50) Running prisma migrations
