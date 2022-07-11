@@ -4,10 +4,14 @@
 
 <https://github.com/vladwulf/nestjs-api-tutorial>
 
-<https://youtu.be/GHTA143_b-s?t=1923>
+<https://youtu.be/GHTA143_b-s?t=2400>
 
 ```ps
 docker-compose up dev-db
+
+npx prisma migrate dev
+
+npx prisma studio
 ```
 
 Next steps:
@@ -22,8 +26,6 @@ More information in our documentation:
 
 ⭐️ Course Contents ⭐
 
-⌨️ (0:32:10) User & bookmark models
-⌨️ (0:35:50) Running prisma migrations
 ⌨️ (0:40:10) Prisma module
 ⌨️ (0:52:10) Using auth dtos
 ⌨️ (0:57:45) NestJs pipes
