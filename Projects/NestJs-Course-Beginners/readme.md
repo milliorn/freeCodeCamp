@@ -4,7 +4,7 @@
 
 <https://github.com/vladwulf/nestjs-api-tutorial>
 
-<https://youtu.be/GHTA143_b-s?t=2400>
+<https://youtu.be/GHTA143_b-s?t=3249>
 
 ```ps
 docker-compose up dev-db
@@ -26,8 +26,6 @@ More information in our documentation:
 
 ⭐️ Course Contents ⭐
 
-⌨️ (0:40:10) Prisma module
-⌨️ (0:52:10) Using auth dtos
 ⌨️ (0:57:45) NestJs pipes
 ⌨️ (0:59:10) NestJs global pipe
 ⌨️ (1:02:50) Hashing user password with argon
