@@ -9,9 +9,7 @@
 <https://rapidapi.com/wirefreethought/api/geodb-cities/>
 
 ⭐️ Course Contents ⭐️
-⌨️ (0:00:00) Intro
-⌨️ (0:00:30) How to get API keys
-⌨️ (0:02:30) Creating the application and installing packages
+
 ⌨️ (0:05:25) Building city search component
 ⌨️ (0:23:48) Building current weather component
 ⌨️ (0:43:23) Fetching and mapping data from weather API
