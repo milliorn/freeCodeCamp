@@ -8,6 +8,8 @@
 
 <https://rapidapi.com/wirefreethought/api/geodb-cities/>
 
+<https://youtu.be/Reny0cTTv24?t=507>
+
 ⭐️ Course Contents ⭐️
 
 ⌨️ (0:05:25) Building city search component
