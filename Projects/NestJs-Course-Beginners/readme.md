@@ -4,7 +4,7 @@
 
 <https://github.com/vladwulf/nestjs-api-tutorial>
 
-<https://youtu.be/GHTA143_b-s?t=3249>
+<https://youtu.be/GHTA143_b-s?t=3498>
 
 ```ps
 docker-compose up dev-db
