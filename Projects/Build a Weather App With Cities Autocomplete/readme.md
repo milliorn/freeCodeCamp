@@ -8,7 +8,7 @@
 
 <https://rapidapi.com/wirefreethought/api/geodb-cities/>
 
-<https://youtu.be/Reny0cTTv24?t=1430>
+<https://youtu.be/Reny0cTTv24?t=2286>
 
 ⭐️ Course Contents ⭐️
 
