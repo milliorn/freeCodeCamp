@@ -4,19 +4,28 @@
 
 <https://github.com/vladwulf/nestjs-api-tutorial>
 
-<https://youtu.be/GHTA143_b-s?t=1743>
+<https://youtu.be/GHTA143_b-s?t=3498>
 
 ```ps
 docker-compose up dev-db
+
+npx prisma migrate dev
+
+npx prisma studio
 ```
+
+Next steps:
+
+1. Set the DATABASE_URL in the .env file to point to your existing database. If your database has no tables yet, read <https://pris.ly/d/getting-started>
+2. Set the provider of the datasource block in schema.prisma to match your database: postgresql, mysql, sqlite, sqlserver, mongodb or cockroachdb.
+3. Run prisma db pull to turn your database schema into a Prisma schema.
+4. Run prisma generate to generate the Prisma Client. You can then start querying your database.
+
+More information in our documentation:
+<https://pris.ly/d/getting-started>
 
 ⭐️ Course Contents ⭐
 
-⌨️ (0:29:10) Setting up prisma
-⌨️ (0:32:10) User & bookmark models
-⌨️ (0:35:50) Running prisma migrations
-⌨️ (0:40:10) Prisma module
-⌨️ (0:52:10) Using auth dtos
 ⌨️ (0:57:45) NestJs pipes
 ⌨️ (0:59:10) NestJs global pipe
 ⌨️ (1:02:50) Hashing user password with argon
